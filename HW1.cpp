@@ -1,6 +1,6 @@
-#include <iostream>
+#include <stdio.h>
 int main()
 {
     int i = 73406301;
-    std::cout << "My student id is:" << i << "\n";
+    printf("My student id is:%d\n",i);
 }
